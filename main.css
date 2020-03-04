@@ -1,0 +1,41 @@
+.amazing {
+    background: #708090;
+    width: 800px;
+    padding: 50px;
+    margin: 30px;
+    border: 20px groove #800000;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+}
+
+.element {
+    background: #006400;
+    width: 350px;
+    height: 220px;
+    padding: 15px 10px 20px 10px;
+    margin-bottom: 30px;
+    border: 2px dashed #FF0000;
+}
+
+.last {
+    font-family: Lustria display, sans-serif;
+    font-style: italic;
+    width: 1000px;
+    padding-left: 10px;
+    margin-bottom: 50px;
+    text-align: justify;
+}
+
+.left {
+    width: 300px;
+    height: 150px;
+    margin: 0px 10px 10px 0px;
+    float: left;
+}
+
+.right {
+    width: 200px;
+    height: 100px;
+    margin: 10px 0px 10px 10px;
+    float: right;
+}
